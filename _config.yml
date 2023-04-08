@@ -1,6 +1,6 @@
 # Site settings
 title: "TITLE"
-email: "EMAIL" 
+email: "fxlondon20@gmail.com" 
 description: "DESCRIPTION" #> # this means to ignore newlines until "baseurl:"
 baseurl: "BASEURL" # the subpath of your site, e.g. /blog/
 url: "URL" # the base hostname & protocol for your site
